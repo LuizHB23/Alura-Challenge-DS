@@ -6,7 +6,7 @@ Este repositório contém a resolução do Challenge de Data Science da Alura. O
 
 ## 📅 Estrutura do Desafio (Semanas 1 a 4)
 
-O projeto foi dividido em quatro semanas intensivas, cobrindo todo o ciclo de vida de um projeto de dados em ambiente de Big Data.
+O projeto foi dividido em três partes intensivas (semana 1, semana 2, semana 3 e 4), cobrindo todo o ciclo de vida de um projeto de dados em ambiente de Big Data.
 
 ### **Semana 1: ETL e Exploração com Spark**
 * **Objetivo:** Processamento inicial de uma base bruta em JSON com múltiplos níveis de aninhamento.
