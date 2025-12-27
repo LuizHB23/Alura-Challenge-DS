@@ -20,8 +20,8 @@ O projeto foi dividido em quatro semanas intensivas, cobrindo todo o ciclo de vi
 * **Ações:**
     * Seleção de variáveis relevantes (Feature Selection).
     * Preparação de dados com `VectorAssembler`.
-    * Treinamento e comparação de modelos de regressão (Linear Regression, Decision Tree Regressor, Random Forest Regressor e GBT Regressor).
-    * **Resultados:** O modelo GBT (Gradient-boosted tree) obteve o melhor desempenho com **R² de 0.87**.
+    * Treinamento e comparação de modelos de regressão (Random Forest Regressor e GBT Regressor).
+    * **Resultados:** O modelo GBT (Gradient-boosted tree) obteve o melhor desempenho com **R² de 0.894**.
 
 ### **Semanas 3 e 4: Sistema de Recomendação**
 * **Objetivo:** Recomendar imóveis semelhantes para usuários com base nas características de interesse.
@@ -34,8 +34,8 @@ O projeto foi dividido em quatro semanas intensivas, cobrindo todo o ciclo de vi
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Linguagem Principal:** Python
-* **Processamento de Big Data:** Apache Spark (PySpark)
+* **Linguagem Principal:** Python 3.x
+* **Processamento de Big Data:** Apache Spark (PySpark 3.5.1)
 * **Machine Learning:** Spark MLlib
 * **Matemática/Estatística:** NumPy, Pandas
 * **Formatos de Armazenamento:** Parquet, JSON, CSV
